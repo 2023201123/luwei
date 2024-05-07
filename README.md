@@ -31,7 +31,5 @@ Here are some ideas to get you started:
 | Linear Recurrent Units for Sequential Recommendation | WSDM ’24 | https://doi.org/10.1145/3616855.3635760 | 单元格数据8 |  
 | Multi-Behavior Sequential Transformer Recommender | SIGIR ’22 | https://dl.acm.org/doi/10.1145/3477495.3532023 | 单元格数据4 |  
 | 单元格数据5 | 单元格数据6 | 单元格数据7 | 单元格数据8 |  
-| 单元格数据9 | 单元格数据10 | 单元格数据11 | 单元格数据12 |  
-| 单元格数据13 | 单元格数据14（跨多行） | 单元格数据15 | 单元格数据16 |  
-| 单元格数据17 | 单元格数据18 | 单元格数据19（跨多列） | 单元格数据21 | 单元格数据22 |  
+
   
