@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 | 题目        | 来源        | 链接        | 复现代码        |  
 | ---------- | ---------- | ---------- | ---------- |  
 | Linear Recurrent Units for Sequential Recommendation | WSDM ’24 | https://doi.org/10.1145/3616855.3635760 | 单元格数据8 |  
-| Multi-Behavior Sequential Transformer Recommender | SIGIR ’22 | https://dl.acm.org/doi/10.1145/3477495.3532023 | 单元格数据4 |  
+| Multi-Behavior Sequential Transformer Recommender | SIGIR ’22 | https://dl.acm.org/doi/10.1145/3477495.3532023 | mb-str-main |  
 | 单元格数据5 | 单元格数据6 | 单元格数据7 | 单元格数据8 |  
 
   
