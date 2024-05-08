@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 | Linear Recurrent Units for Sequential Recommendation | WSDM ’24 | https://doi.org/10.1145/3616855.3635760 | 单元格数据8 |  
 | Multi-Behavior Sequential Transformer Recommender | SIGIR ’22 | https://dl.acm.org/doi/10.1145/3477495.3532023 | mb-str-main |  
 | 单元格数据5 | 单元格数据6 | 单元格数据7 | 单元格数据8 |  
+| MB-STR  | [Multi-Behavior Sequential Transformer Recommender](https://dl.acm.org/doi/10.1145/3477495.3532023)      |   SIGIR    | 2022     | [Python](https://github.com/yuanenming/mb-str?tab=Apache-2.0-1-ov-file)     |    王露薇  |
 
   
