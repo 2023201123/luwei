@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-# 🌱 Luwei 
-  
-## 🔭 I’m currently studying at Anhui University of Science and Technology
-  
 <!-- 其他内容 -->  
   
 ## 论文
