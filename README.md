@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 | Model | Paper | Venue | Year | Code | Time |
 | :---: | :---: | :---: | :--: | :--: | :--: |
-| MB-STR  | [Multi-Behavior Sequential Transformer Recommender](https://dl.acm.org/doi/10.1145/3477495.3532023)      |   SIGIR    | 2022     | [Python](https://github.com/yuanenming/mb-str?tab=Apache-2.0-1-ov-file)     |    2024.5  |
+| MB-STR  | [Multi-Behavior Sequential Transformer Recommender](https://dl.acm.org/doi/10.1145/3477495.3532023)      |   SIGIR    | 2022     | [Python](https://github.com/2023201123/mb-str1)     |    2024.5  |
 | LRURec | [Linear Recurrent Units for Sequential Recommendation](https://dl.acm.org/doi/10.1145/3477495.3532023)      |   WSDM    | 2024    | [Python](https://github.com/yuanenming/mb-str?tab=Apache-2.0-1-ov-file)     |    2024.5  |
 
 
