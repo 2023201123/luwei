@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <!-- 其他内容 -->  
-  
+  <!--
 ## 论文
   
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 | Multi-Behavior Sequential Transformer Recommender | SIGIR ’22 | https://dl.acm.org/doi/10.1145/3477495.3532023 | mb-str-main |  
 | 单元格数据5 | 单元格数据6 | 单元格数据7 | 单元格数据8 |  
 
-
+-->
 
 ## Recommender system
 
