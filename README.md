@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 | FEARec | [Frequency Enhanced Hybrid Attention Network for Sequential Recommendation](https://dl.acm.org/doi/10.1145/3477495.3532023)      |   SIGIR    | 2023    | [Python](https://github.com/2023201123/FEARec)     |    2024.6.7  |
 | FMLP-Rec | [Filter-enhanced MLP is All You Need for Sequential Recommendation](https://dl.acm.org/doi/10.1145/3477495.3532023)      |   arXiv    | 2022    | [Python](https://github.com/RUCAIBox/FMLP-Rec)     |    2024.6.15  |
 | BSARec | [An Attentive Inductive Bias for Sequential Recommendation beyond the Self-Attention](https://arxiv.org/abs/2312.10325)      |   AAAI    | 2024    | [Python](https://github.com/yehjin-shin/BSARec?tab=readme-ov-file)     |    2024.6.20  |
-| LightSANs | [Lighter and Better: Low-Rank Decomposed Self-Attention Networks for Next-Item Recommendation.](https://arxiv.org/abs/2312.10325)      |   SIGIR    | 2021   | [Python](https://github.com/BELIEVEfxy/LightSANs)     |    2024.6.25  |
+| LightSANs | [Lighter and Better: Low-Rank Decomposed Self-Attention Networks for Next-Item Recommendation.](https://arxiv.org/abs/2312.10325)      |   SIGIR    | 2021   | [Python](https://github.com/BELIEVEfxy/LightSANs)     |    2024.7.3  |
 
 
 
